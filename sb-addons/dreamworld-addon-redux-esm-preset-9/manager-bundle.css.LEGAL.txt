@@ -1,9 +1,0 @@
-Bundled license information:
-
-jsoneditor/dist/jsoneditor.css:
-  /*!
-   * Selectr 2.4.13
-   * http://mobius.ovh/docs/selectr
-   *
-   * Released under the MIT license
-   */
