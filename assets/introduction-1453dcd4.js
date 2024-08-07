@@ -1,4 +1,4 @@
-import{j as e,a as t,F as a}from"./jsx-runtime-51f16834.js";import{M as r}from"./index-5ef47fc9.js";import{u as s}from"./index-26f82b5d.js";import"./index-f0613c7e.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-1806a738.js";import"../sb-preview/runtime.js";import"./index-d475d2ea.js";import"./index-11d98b33.js";import"./index-f05804b8.js";import"./index-1975b18f.js";import"./isSymbol-bb09bcdd.js";import"./index-356e4a49.js";function o(n){return t(a,{children:[e(r,{title:"Introduction"}),`
+import{j as e,a as t,F as a}from"./jsx-runtime-51f16834.js";import{M as r}from"./index-14aa30f9.js";import{u as s}from"./index-26f82b5d.js";import"./index-f0613c7e.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-986420e0.js";import"../sb-preview/runtime.js";import"./index-d475d2ea.js";import"./index-11d98b33.js";import"./index-f05804b8.js";import"./index-1975b18f.js";import"./isSymbol-bb09bcdd.js";import"./index-356e4a49.js";function o(n){return t(a,{children:[e(r,{title:"Introduction"}),`
 `,e("h1",{children:"What is React Seat Toolkit?"}),`
 `,t("span",{children:["You're looking at an ",e("b",{children:"Open Source"})," and completely free to use ",e("b",{children:"NPM library"})," which requires as less as 5 lines of code to get started with."]}),`
 `,e("br",{}),`
@@ -17,4 +17,4 @@ import{j as e,a as t,F as a}from"./jsx-runtime-51f16834.js";import{M as r}from".
 `,e("span",{children:"React Seat Toolkit is built with React, D3.js, Redux and TailwindCSS and Storybook."}),`
 `,e("h2",{className:"border-b-0 font-semibold",children:"How do I use it?"}),`
 `,e("span",{children:" You can use the stories below to get a better understanding of how React Seat Toolkit works. There are some prebuilt workspaces setup for you to play around with. "})]})}function M(n={}){const{wrapper:i}=Object.assign({},s(),n.components);return i?e(i,Object.assign({},n,{children:e(o,n)})):o()}export{M as default};
-//# sourceMappingURL=introduction-9f878cc0.js.map
+//# sourceMappingURL=introduction-1453dcd4.js.map
