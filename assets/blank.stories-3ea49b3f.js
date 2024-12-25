@@ -1,0 +1,4 @@
+import{j as p}from"./jsx-runtime-51f16834.js";import{S as a,o as m,a as i}from"./options-5d9b8d34.js";import"./index-f0613c7e.js";import"./_commonjsHelpers-de833af9.js";import"./index-6c1a5955.js";import"./isSymbol-bb09bcdd.js";import"./v4-a960c1f4.js";import"./debounce-d5f60358.js";import"./Combination-ed49f4f8.js";const f={title:"Designer/Blank",component:a,...m},o={render:s=>p(a,{mode:i.DESIGNER,data:{},...s})};var r,t,e;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  render: props => <SeatToolkit mode={STKMode.DESIGNER} data={{}} {...props} />
+}`,...(e=(t=o.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const x=["Story"];export{o as Story,x as __namedExportsOrder,f as default};
+//# sourceMappingURL=blank.stories-3ea49b3f.js.map
